@@ -38,6 +38,7 @@ Here are svg images that can be modified for your own needs.
 [<img src=".thumb/vector/projects/surfing-js.png">](vector/projects/surfing-js.svg)
 [<img src=".thumb/vector/projects/vim-go.png">](vector/projects/vim-go.svg)
 [<img src=".thumb/vector/projects/with-C-book.png">](vector/projects/with-C-book.svg)
+[<img src=".thumb/vector/projects/go-freebsd.png">](vector/projects/go-freebsd.svg)
 [<img src=".thumb/vector/science/power-to-the-masses.png">](vector/science/power-to-the-masses.svg)
 [<img src=".thumb/vector/science/rocket.png">](vector/science/rocket.svg)
 [<img src=".thumb/vector/science/scientist.png">](vector/science/scientist.svg)
